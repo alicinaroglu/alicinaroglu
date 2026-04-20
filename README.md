@@ -44,6 +44,8 @@ Production iOS apps I own end-to-end (idea → App Store → updates):
 
 *0.0% crash rate across portfolio · regular updates · 36+ localizations*
 
+All iOS apps: [alicinaroglu.com/ios-gelistirme](https://alicinaroglu.com/ios-gelistirme/)
+
 ## Selected client work
 
 Web platforms and brands I shipped — 84+ projects in total, these are highlights:
@@ -85,14 +87,14 @@ DevOps    Docker · Nginx · LiteSpeed · Cloudflare
 
 ## Writing
 
-Technical notes on system architecture, iOS development, and API systems → [alicinaroglu.com/blog](https://alicinaroglu.com/blog/) · [alicinaroglu.dev/blog](https://alicinaroglu.dev/blog/)
+Technical notes on system architecture, iOS development, and API systems → [alicinaroglu.com/blog](https://alicinaroglu.com/blog/) · [alicinaroglu.dev/blog](https://alicinaroglu.dev/blog/) (EN)
 
 ## Let's work
 
 Leave a brief project summary — I'll respond within 24 hours.
 
 - 📧 **me@alicinaroglu.dev**
-- 💬 **[alicinaroglu.com/iletisim](https://alicinaroglu.com/iletisim/)** (TR) · **[alicinaroglu.dev/contact](https://alicinaroglu.dev/contact/)** (EN)
+- 💬 **[alicinaroglu.com/iletisim](https://alicinaroglu.com/iletisim/)** · English visitors: **[alicinaroglu.dev/contact](https://alicinaroglu.dev/contact/)**
 - 📱 **+90 532 337 84 26** (WhatsApp)
 
 ---
