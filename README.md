@@ -33,7 +33,7 @@ Production iOS apps I own end-to-end (idea → App Store → updates):
 | **CVCrafter** | Productivity · AI CV builder | SwiftUI · MVVM |
 | **GO HERO** | Game · Horse racing | SwiftUI · SpriteKit |
 | **flatişler** | Productivity · Household tasks | SwiftUI · MVVM |
-| **Halıysa** | E-commerce · Carpets marketplace | SwiftUI · MVVM |
+| **Halıysa** | E-commerce · Carpet marketplace | SwiftUI · MVVM |
 | **Parademi** | Finance · Expense tracking | SwiftUI · MVVM |
 | **Snoozio** | Health · Sleep & relaxation | SwiftUI · AVFoundation |
 | **ByteBreak** | Productivity · Developer wellness | SwiftUI · HealthKit |
@@ -43,6 +43,27 @@ Production iOS apps I own end-to-end (idea → App Store → updates):
 | **Yarış Analiz** | Sports · AI race analysis | SwiftUI · MVVM |
 
 *0.0% crash rate across portfolio · regular updates · 36+ localizations*
+
+## Selected client work
+
+Web platforms and brands I shipped — 84+ projects in total, these are highlights:
+
+| Project | Category | Stack |
+|---------|----------|-------|
+| **CosmoEn** | E-commerce · Beauty & cosmetics | WordPress · WooCommerce |
+| **Halıysa** | E-commerce · Carpet marketplace | WordPress · WooCommerce · iOS companion |
+| **Sabunaria** | E-commerce · Artisan soap & cosmetics manufacturer | WordPress · WooCommerce |
+| **BodyShop Magazine** | Publishing · Fitness & beauty magazine | WordPress · Custom theme |
+| **En Gözde Şirketler** | Corporate · Business rankings platform | Custom WordPress |
+| **Parademi** | SaaS · Expense tracking & finance | WooCommerce · iOS companion |
+| **Kemal Kükrer** | E-commerce · Traditional food brand | WordPress · WooCommerce |
+| **Bizim Mutfak** | E-commerce · Food brand | WordPress · WooCommerce |
+| **Bebedor** | E-commerce · Baby products | WordPress · WooCommerce |
+| **Sesu** | Corporate · Beverage brand | WordPress |
+| **Ruul** | SaaS · Freelance payments platform | Full-stack · API |
+| **Filmbox** | Corporate · Film & TV channel | WordPress |
+
+Full portfolio: [alicinaroglu.com/projeler](https://alicinaroglu.com/projeler/)
 
 ## Tech stack
 
