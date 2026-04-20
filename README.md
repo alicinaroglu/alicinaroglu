@@ -77,14 +77,6 @@ Web         WordPress · WooCommerce · Next.js · React · TypeScript
 DevOps      Docker · Nginx · LiteSpeed · Cloudflare
 ```
 
-## Deneyim zaman çizelgesi
-
-- **2025** — GO HERO, Halıysa, Parademi yayınlandı · iOS portföy büyümesi
-- **2024** — 8 iOS uygulaması yayınlandı (Dentii, CVCrafter, Snoozio, ByteBreak, BLOCKii, SoloTest, flatişler, Goalii)
-- **2023** — Headless WordPress migrasyonları · yüksek trafikli sitelerde ~%35 hız iyileştirmesi
-- **2020–2022** — SaaS ürünleri · çok kiracılı sistemler · ödeme ve entegrasyon katmanları
-- **2006–2019** — Full-stack dönem · PHP/JS ekosisteminde büyük ölçekli WP/WooCommerce projeleri
-
 ## Yazılar
 
 Sistem mimarisi, iOS geliştirme ve API sistemleri üzerine teknik notlar → [alicinaroglu.com/blog](https://alicinaroglu.com/blog/)
